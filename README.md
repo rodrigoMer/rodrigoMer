@@ -61,10 +61,11 @@ For specialized implementation, I collaborate with trusted engineers and develop
 
 ## 📌 Current Focus
 
-- Building MVPs for early-stage products
-- Helping businesses define and ship software faster
-- Creating reusable app, API, and product documentation templates
-- Exploring AI-assisted software delivery workflows
+- Building complete mobile and web applications for real business needs
+- Helping founders, teams, and companies define, plan, and launch digital products
+- Designing scalable product architectures and backend systems
+- Improving delivery workflows, documentation, QA, and release processes
+- Exploring AI-assisted workflows to speed up product planning, development, and operations
 
 ---
 
