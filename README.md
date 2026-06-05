@@ -9,12 +9,14 @@ I focus on building practical, scalable, and business-driven solutions.
 ---
 
 ## 🚀 Start Here
+## 🚀 What We Build
 
-- 📱 **Mobile App MVP Starter** – Flutter-based mobile app architecture for iOS & Android
-- ⚙️ **API Starter Kit** – .NET backend structure for authentication, users, and business workflows
-- 🧩 **Product Discovery Kit** – PRDs, user stories, acceptance criteria, and roadmap planning
-- ☁️ **Cloud Deployment Notes** – Azure/AWS deployment patterns for small products
-- 🧪 **QA & Release Checklist** – App Store, Play Store, testing, and release preparation
+- 📱 **End-to-End Mobile App Development** – Complete mobile applications from concept, design, development, testing, and release
+- 🌐 **Web Application Development** – Modern web platforms, dashboards, admin portals, landing pages, and business applications
+- ⚙️ **Backend & Business Logic Systems** – Scalable, modern APIs and business logic designed around clean, domain-driven architecture
+- 🧩 **Product Strategy & Planning** – Product requirements, user flows, feature definition, acceptance criteria, and delivery roadmap
+- ☁️ **Deployment & Release Operations** – Environment setup, release pipelines, monitoring, app publishing, and production readiness
+- 🧪 **Quality Assurance & Launch Support** – Testing workflows, release checklists, store submission support, and post-launch improvements
 
 ---
 
