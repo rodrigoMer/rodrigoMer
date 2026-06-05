@@ -1,4 +1,4 @@
-# Hi, I'm Rodrigo 👋
+# Hi, I'm Kevin 👋
 📍 El Salvador | Product & Software Delivery Lead | Mobile Apps, Web Platforms & Cloud Solutions
 
 I help founders, teams, and companies turn ideas into complete digital products — from discovery, product strategy, and technical planning to development, deployment, and launch with a trusted technical team.
@@ -7,8 +7,7 @@ I focus on building practical, scalable, and business-driven solutions designed 
 
 ---
 
-## 🚀 Start Here
-## 🚀 What We Build
+## 🚀 What I Build
 
 - 📱 **End-to-End Mobile App Development** – Complete mobile applications from concept, design, development, testing, and release
 - 🌐 **Web Application Development** – Modern web platforms, dashboards, admin portals, landing pages, and business applications
