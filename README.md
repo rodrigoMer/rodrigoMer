@@ -22,13 +22,15 @@ I focus on building practical, scalable, and business-driven solutions.
 
 ## 💼 What I Do
 
-- Product discovery and software planning
-- MVP development coordination
-- Mobile app development with Flutter
-- Backend API delivery with .NET
-- Cloud deployment and CI/CD support
-- Technical documentation and QA workflows
-- App Store / Play Store release preparation
+- Product discovery, strategy, and software planning
+- End-to-end mobile app development coordination
+- Web application development for platforms, dashboards, and business tools
+- Backend API delivery and business logic implementation
+- Scalable architecture planning based on clean and domain-driven principles
+- Cloud deployment, environments, monitoring, and CI/CD workflows
+- Technical documentation, QA processes, and release management
+- App Store and Google Play submission support
+- Post-launch support, improvements, and product iteration
 
 ---
 
