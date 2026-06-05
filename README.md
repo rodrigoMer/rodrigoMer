@@ -1,10 +1,9 @@
 # Hi, I'm Rodrigo 👋
+📍 El Salvador | Product & Software Delivery Lead | Mobile Apps, Web Platforms & Cloud Solutions
 
-📍 El Salvador | Product & Software Delivery Lead | MVPs, Mobile Apps & Cloud Solutions
+I help founders, teams, and companies turn ideas into complete digital products — from discovery, product strategy, and technical planning to development, deployment, and launch with a trusted technical team.
 
-I help startups, founders, and small businesses turn ideas into real software products — from product discovery and technical planning to development delivery with a trusted technical team.
-
-I focus on building practical, scalable, and business-driven solutions.
+I focus on building practical, scalable, and business-driven solutions designed to support real operations and long-term growth.
 
 ---
 
