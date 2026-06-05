@@ -71,13 +71,16 @@ For specialized implementation, I collaborate with trusted engineers and develop
 
 ## 🤝 Work With Me
 
-If you need someone who can understand the business side, organize the technical side, and help ship a real product, I can help.
+If you need a partner who can understand the business vision, organize the technical execution, and help turn ideas into real digital products, I can help.
 
-Areas I can support:
+I work with founders, teams, and companies to define, build, launch, and improve mobile apps, web platforms, backend systems, and cloud-based solutions.
 
-- MVP planning
-- Mobile app development
-- API/backend delivery
-- Technical documentation
-- App release preparation
-- Product and engineering coordination
+### Areas I Can Support
+
+- Product discovery and technical planning
+- Mobile app and web application development
+- Backend APIs and business logic systems
+- Product architecture and delivery coordination
+- Technical documentation and QA workflows
+- App Store and Google Play release preparation
+- Deployment, monitoring, and post-launch improvements
