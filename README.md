@@ -1,4 +1,3 @@
-# Hi, I'm Kevin 👋
 📍 El Salvador | Product & Software Delivery Lead | Mobile Apps, Web Platforms & Cloud Solutions
 
 I help founders, teams, and companies turn ideas into complete digital products — from discovery, product strategy, and technical planning to development, deployment, and launch with a trusted technical team.
